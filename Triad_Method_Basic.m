@@ -1,3 +1,4 @@
+% ON WORK - SOON UPADTE WITH FUNCTIONS AND RUNNING CODE
 % TRIAD Method uses two position vectors (e.g. sun vector and the magnetic
 % field vector)to determine the spacecraft attitude in relation to an
 % inertial reference frame.
